@@ -8,7 +8,7 @@
 📫 How to reach me **edison0341@gmail.com**</br>
 <p align="left">
 </p>
-[![Edison's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edison0341)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edison0341&show_icons=true&theme=dracula&locale=en" alt="edison0341" /></p>
 
 <h1 align="center">💻 Tech Stack</h1>
 <h3 align="left">Languages and Tools:</h3>
