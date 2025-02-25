@@ -3,8 +3,8 @@
 
 
 👩🏻‍💻 Software Engineer Student</br>
-👩🏻‍🎓 Studied [Computer Science](https://www.youtube.com/@holbertonpuertorico9131) at HolbertonCodingSchool in Puerto Rico</br>
-💭 Currently learning about AI</br>
+👩🏻‍🎓 Studied Computer Science at [HolbertonCodingSchool in Puerto Rico](https://www.youtube.com/@holbertonpuertorico9131)</br>
+💭 Currently LOVING n8n workflow</br>
 📫 How to reach me **edison0341@gmail.com**</br>
 <p align="left">
 </p>
